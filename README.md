@@ -18,7 +18,7 @@ I used a vast number of external resources online for examples on a form to help
 
 #What skills from this project will be particularly transferable to other projects or course work?
 
-I think being able to understand, write, and edit files in different languages will be helpful. Seeing the similarities and differences between JAVA, Python, and C++ will be super helpful to be able to harness the advantages of each. 
+I think being able to reflect on the finished code and allowing yourself the time to think of what you can do to enhance your code to be better.
 
 #How did you make this program maintainable, readable, and adaptable?
 
